@@ -1,0 +1,34 @@
+footer {
+    color: blueviolet;
+    position: fixed;
+    padding: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 130px;
+  }
+  footer .input-field input,
+  button {
+    border-color: #FFFFFF;
+  }
+  .chip {
+    font-style: italic;
+  }
+
+  .chip2 {
+    font-style: italic;
+    color:red;
+    align-content: center;
+
+  }
+
+.collection {
+ margin-bottom:130px;
+ margin-top: -1px;
+}
+.message-date {
+  color: #585858;
+}
+body {
+  background: #EEEEEE;
+}

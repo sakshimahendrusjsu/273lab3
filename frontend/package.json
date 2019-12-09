@@ -1,0 +1,52 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "apollo-boost": "^0.1.17",
+    "axios": "^0.18.1",
+    "bootstrap": "^4.3.1",
+    "graphql": "^14.0.2",
+    "react": "^16.6.0",
+    "react-apollo": "^2.2.4",
+    "react-beautiful-dnd": "^11.0.5",
+    "react-bootstrap-table": "^4.3.1",
+    "react-bootstrap-table-next": "^3.2.1",
+    "react-bootstrap-table2-editor": "^1.4.0",
+    "react-cookie": "^3.0.4",
+    "react-cookies": "^0.1.0",
+    "react-dom": "^16.6.0",
+    "react-redux-form": "^1.16.14",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.5",
+    "react-select": "^3.0.8",
+    "react-social-login-buttons": "^3.0.0",
+    "react-split-pane": "^0.1.87",
+    "reactstrap": "^8.0.1",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-form": "^8.2.6",
+    "redux-thunk": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

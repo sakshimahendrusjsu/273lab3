@@ -1,0 +1,1 @@
+export const HOST = "3.15.199.74:3001";
