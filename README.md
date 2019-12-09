@@ -8,3 +8,8 @@
 #### 2.d) npm install
 #### 3)Start the backend server with node index.js in the backend folder - node app.js
 #### 4) Start the frontend server in the frontend folder - npm start
+
+
+Architecture diagram
+
+![](https://github.com/sakshimahendrusjsu/273lab3/blob/master/diagrams/architecture_graphql.png)
